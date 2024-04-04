@@ -1,0 +1,31 @@
+
+
+
+ [
+    {
+        "id": "35436673",
+        "image": "../assets/images.jpeg",
+        "title": "Denim shirt",
+        "price": 1000,
+        "quantity": 1,
+        "price_id": "price_id"
+    },
+    {
+        "id": "35436674",
+        "image": "../assets/mens-denim-jeans-pant.jpeg",
+        "title": "Denim Pant",
+        "price": 2000,
+        "quantity": 1,
+        "price_id": "price_id"
+    },
+    {
+        "id": "35436675",
+        "image": "../assets/shirt.jpg",
+        "title": "Mens Shirt",
+        "price": 1500,
+        "quantity": 1,
+        "price_id": "price_id"
+    }
+]
+
+
